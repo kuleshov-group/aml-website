@@ -1,6 +1,6 @@
 ---
-title: CS 5785 - Applied Machine Learning
-subtitle: Knowledge is the most powerful when applied to real world.
+title: Applied Machine Learning
+subtitle: Cornell University - CS 5785 (Open Online Version).
 layout: page
 show_sidebar: false
 hero_height: is-medium
@@ -9,9 +9,10 @@ hero_height: is-medium
 <div class="columns">
     <div class="column is-6">
         <h2>About Us</h2>
-        <p>Machine learning is everywhere. It can predict the weather, monitor stock prices, filter junk mail, even tell the mood of a person by they way they speak. It transforms the way we see, enhances the way we save memories, make our lives more efficient than ever, and whether you like it or not, it is one of the biggest catchwords of our present era. But deep down, machine learning is all about math and statistics.</p>
+        <p>Machine learning is everywhere. It can predict the weather, monitor stock prices, filter junk mail, even tell the mood of a person by they way they speak. It transforms the way we see, make our lives more efficient, and whether you like it or not, it is one of the biggest catchwords. But deep down, machine learning is all about math, statistics, and code.</p>
         <br>
-        <p>It is crucial to understand these underlying mechanics to better apply machine learning to the real world. In this open machine learning course, we will tell the story of machine learning using the language of mathematics. We are thrilled that you are here! Welcome to Cornell Tech’s CS 5785 - Applied Machine Learning.</p>
+        <p>In this open machine learning course, we will tell the story of machine learning. 
+            We are thrilled that you are here! Welcome to Cornell Tech’s CS 5785 - Applied Machine Learning.</p>
         <br>
         <div class = "columns">
         <div class="column is-4">
@@ -51,10 +52,11 @@ hero_height: is-medium
     <div class="column">
         <h3>Instructors</h3>
         <p><strong>Volodymyr Kuleshov</strong> is an assistant professor at Cornell Tech. His research focuses on machine learning and its applications in scientific discovery, health, and sustainability.</p>
-        <p><strong>Nathan Kallus</strong> is an assistant professor at Cornell Tech. His research interests include personalization; optimization; causal inference; sequential decision making; credible and robust inference; and algorithmic fairness.</p>
-        <p><strong>Serge Belongie</strong> was the Associate Dean at Cornell Tech, who is now the head of the Pioneer Centre for Artificial Intelligence at the University of Copenhagen. His research interests include Computer Vision, Machine Learning, Augmented Reality, and Human-in-the-Loop Computing.</p>
+        <p><strong>Nathan Kallus</strong> is an assistant professor at Cornell Tech. His research interests include personalization, optimization, causal inference, sequential decision making, credible and robust inference, and algorithmic fairness.</p>
+        <p><strong>Serge Belongie</strong> was the Associate Dean at Cornell Tech, who is now the head of the Pioneer Centre for Artificial Intelligence at the University of Copenhagen. His research interests include computer vision, machine learning, augmented reality, and human-in-the-loop computing.</p>
     </div>
 </div>
+
 
 ***
 
@@ -180,7 +182,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Model training</span>
         <span class="tag is-success is-light">Ordinary least squares</span>
     </div>
-    <p>We will start diving into one of the approaches to Machine Learning, that is, Supervised Learning. We will give a general introduction about Supervised Learning, as well as how dataset is crucial for a successful learning algorithm.</p>
+    <p>We will start diving into one of the approaches to machine learning, that is, Supervised Learning. We will give a general introduction about Supervised Learning, as well as define the components of a dataset and a learning algorithm.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -290,7 +292,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Polynomial feature expansion</span> 
         <span class="tag is-success is-light">Extensions of linear regression</span>
     </div>
-    <p>Some calculus review, and we dive into our first optimization method, Gradient Descent. We will also talk about ordinary least squares and non-linear least squares, and how they contribute to supervised learning.</p>
+    <p>Some calculus review, and we dive into our first optimization method, Gradient Descent. We will talk about ordinary least squares and non-linear least squares, and how they are used in machine learning algorithms.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -404,7 +406,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Over/under fitting</span>
         <span class="tag is-success is-light">Regularization</span>
     </div>
-    <p>You might want to ask, why does supervised learning work? That is precisely the topic we want to tackle in this lecture. We will talk about the two biggest enemies to machine learning, and how to regularize them.</p>
+    <p>You might want to ask, why does supervised learning work? That is precisely the topic we want to tackle in this lecture. We will talk about the two biggest pitfalls to machine learning, and how to deal with them using regularization.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -520,7 +522,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">MAP Learning</span> 
         <span class="tag is-success is-light">Example Algorithms</span>
     </div>
-    <p>We will be discussing probabilistic modeling and maximum likelihood learning in this lecture. We will explain Monte Carlo estimation, touch base on probabilistic linear regression, and get a good understanding of Bayesian algorithms.</p>
+    <p>We will be discussing probabilistic modeling and maximum likelihood learning in this lecture. We will explain Monte Carlo estimation, touch upon probabilistic linear regression, and define Bayesian algorithms.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -659,7 +661,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Logistic Regression</span>
         <span class="tag is-success is-light">Softmax Regression</span>
     </div>
-    <p>Classification problems is one of the fundamentals of machine learning. We will discuss nearest neighbors and logistic regression, as well as softmax regress regression, which are all handy tools when solving classification problems.</p>
+    <p>Classification problems is one of the fundamentals of machine learning. We will discuss nearest neighbors and logistic regression, as well as softmax regression, which are all handy tools when solving classification problems.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -773,7 +775,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Generative models</span> 
         <span class="tag is-success is-light">Gaussian Discriminant Analysis</span>
     </div>
-    <p>We will discuss the difference between discriminative models and generative models, what generative models are, what can they do, as well as gaussian discriminant analysis.</p>
+    <p>We will discuss the difference between discriminative models and generative models, what generative models are, what can they do, and define Gaussian discriminant analysis.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -882,7 +884,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Bag of Words</span>
         <span class="tag is-success is-light">Generative vs. Discriminative Methods</span>
     </div>
-    <p>Naive Bayes is a very useful and easy to understand machine learning algorithm for text classification. We will go over the mechanics of Naive Bayes as well as how to deploy learning models using Naive Bayes.</p>
+    <p>Naive Bayes is a simple and popular classification algorithm. We will go over the mechanics of Naive Bayes as well as how to apply it to text classification.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -993,7 +995,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Hinge Loss</span>
         <span class="tag is-success is-light">Sub-gradient Descent</span>
     </div>
-    <p>Support vector machines are one of the most robust prediction methods in machine learning, especially in supervised learning models that perform classification and regression analysis. We will go over margins, loss, as well as optimization for SVMs.</p>
+    <p>Support vector machines are one of the most robust prediction methods in machine learning. We will go over margins, loss, as well as optimization for SVMs.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -1105,7 +1107,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Dual Formulation of SVM</span>
         <span class="tag is-success is-light">SMO algorithm</span>
     </div>
-    <p>We will dive deeper in the knowledge of support vector machines by introducing Lagrange duality, and discuss dual formulation of support vector machines.</p>
+    <p>We will dive deeper into support vector machines by introducing Lagrange duality, and define the dual form of support vector machines.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -1214,7 +1216,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Mercer's Theorem</span>
         <span class="tag is-success is-light">RBF Kernels</span>
     </div>
-    <p>In this lecture, we will explain what Kernels mean in Machine Learning, we will provide examples, as well as how to apply the Kernel trick in support vector machines.</p>
+    <p>In this lecture, we will explain what Kernels mean in machine learning, we will provide examples, as well as how to apply the kernel trick in support vector machines.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -1326,7 +1328,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Ensembling</span>
         <span class="tag is-success is-light">CART</span>
     </div>
-    <p>Decision tree is a very unique algorithm in Machine Learning. Some say it is simply if-else commands, which isn’t necessarily wrong. We will talk about what they are, how to use them, as well as bagging and random forests to improve the performance of decision tree models.</p>
+    <p>Decision trees are simple and interpretable algorithms for regression and classification. We will talk about what they are, how to use them, as well as bagging and random forests to improve the performance of decision tree models.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -1437,7 +1439,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Adaboost</span> 
         <span class="tag is-success is-light">Gradient Boosting</span>
     </div>
-    <p>Boosting helps a week learner to become better. In this lecture, we will talk about the essence of boosting, additive models, as well as gradient boosting.</p>
+    <p>Boosting helps a weak learner to become better. In this lecture, we will talk about the essence of boosting, additive models, as well as gradient boosting.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -1546,7 +1548,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Perceptrons</span>
         <span class="tag is-success is-light">Multi-layer Neural Networks</span>
     </div>
-    <p>Neural network is one of the biggest buzzword in the current era. In this lecture, we will give an introduction of neural works, how we mimic human brain using perceptron, as well as back propagation.</p>
+    <p>Neural networks are machine learning models inspired by the brain. In this lecture, we will give an introduction of neural networks, how perception mimic human neurons, and back propagation.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -1655,7 +1657,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Convolutional neural networks</span>
         <span class="tag is-success is-light">Applications</span>
     </div>
-    <p>We will start our journey exploring deep learning. After an introduction of convolutions, we will introduce convolutional neural networks, one of the very important topics in machine learning.</p>
+    <p>We will provide a brief introduction to deep learning. After an introduction of convolutions, we will introduce convolutional neural networks, one of the very important topics in machine learning.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -1765,7 +1767,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Language</span>
         <span class="tag is-success is-light">Practice</span>
     </div>
-    <p>Let’s start our journey in unsupervised learning! We will introduce the concept of unsupervised learning, get familiar with some terms in unsupervised learning, and talk about unsupervised learning in practice.</p>
+    <p>Let’s start our journey in unsupervised learning. We will introduce the concept of unsupervised learning, get familiar with some terms in unsupervised learning, and talk about unsupervised learning in practice.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -1874,7 +1876,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Probabilistic Models</span>
         <span class="tag is-success is-light">K-Nearest Neighbors</span>
     </div>
-    <p>Density estimation is one of the very important tools in unsupervised machine learning, particularly unsupervised probabilistic models. We will also discuss kernel density estimation, as well as latent variable models.</p>
+    <p>Density estimation is an important tools in unsupervised machine learning. We will also discuss kernel density estimation, as well as latent variable models.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -1983,7 +1985,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">K-means</span>
         <span class="tag is-success is-light">Expectation-Maximization</span>
     </div>
-    <p>Clustering is the essence of unsupervised learning. We will introduce gaussian mixture models, expectation maximization, as well as generalization in probabilistic models.</p>
+    <p>Clustering is perhaps the most popular class of unsupervised learning algorithms. We will introduce gaussian mixture models, expectation maximization, as well as generalization in probabilistic models.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -2096,7 +2098,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">ICA</span>
     </div>
     <p>Note: Lecture video 19 part 2 was incorrectly titled as part 3 on Youtube.</p>
-    <p>One of the most common way to make our models more efficient is reduce the dimensionality of our model. To do that, the most used method is principal component analysis, or PCA. </p>
+    <pReducing the dimensionality of the data can help us better interpret it and also make learning algorithms more efficient. To do that, the most used method is principal component analysis, or PCA. </p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -2203,7 +2205,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Cross-Validation</span>
         <span class="tag is-success is-light">Performance Measures</span>
     </div>
-    <p>So, now you have a model. How to evaluate them? We will talk about the ML development workflow, and how to evaluate classification and regression models.</p>
+    <p>So, now you have a model. How to evaluate it? We will talk about the ML development workflow, and how to evaluate classification and regression models.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -2317,7 +2319,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Baselines</span>
         <span class="tag is-success is-light">Learning Curves</span>
     </div>
-    <p>Most of us can’t get our model perfect in the first shot. We will encounter difficulties and errors, and it is part of our job to fix them. We will talk about error and bias/variance analysis, so you are prepared to tackle anything machine learning throws at you.</p>
+    <p>Developing machine learning models is an iterative process. We will encounter difficulties and errors, and it is part of our job to fix them. We will talk about error and bias/variance analysis.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">
@@ -2427,7 +2429,7 @@ hero_height: is-medium
         <span class="tag is-success is-light">Data Integrity</span>
         <span class="tag is-success is-light">Human-Level Performance</span>
     </div>
-    <p>A doctor can’t diagnose cancer without a X-ray machine looking through their patient’s body. Similarly, we need tools for diagnosing the performance of our models. We will touch base on learning/loss/validation curves, as well as distribution mismatch.</p>
+    <p>We need tools for diagnosing the performance of our models. We will describe learning/loss/validation curves, as well as distribution mismatch.</p>
     <div class="columns">
         <div class="column">
             <div class="dropdown">

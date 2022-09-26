@@ -10,8 +10,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content=#b31b1b>
-    <link rel="stylesheet" href="/assets/css/app.css">
-<!--    <link rel="stylesheet" href="/assets/css/app.css">-->
+    <link rel="stylesheet" href="https://kuleshov-group.github.io/aml-website//assets/css/app.css">
+<!--    <link rel="stylesheet" href="https://kuleshov-group.github.io/aml-website//assets/css/app.css">-->
 <!--    <link rel="shortcut icon" type="image/png"-->
 <!--           href="/favicon.png" -->
 <!--    />-->
@@ -37,7 +37,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Deep Probabilistic and Generative Models" />
 <script type="application/ld+json">
-{"@type":"WebPage","description":"The site for Cornell Tech’s Applied Machine Learning.","headline":"Deep Probabilistic and Generative Models","url":"http://localhost:4000/examples/index_bkup.bak","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/examples/index_bkup.bak","headline":"Deep Probabilistic and Generative Models","@type":"WebPage","description":"The site for Cornell Tech’s Applied Machine Learning.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <!-- head scripts --></head>
 

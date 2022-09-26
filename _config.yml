@@ -26,7 +26,6 @@ disqus:
   # shortname: my_disqus_shortname
   shortname: csrhymes
 
-
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
@@ -80,3 +79,5 @@ collections:
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
+  staff_members:
+    people: true
