@@ -4,6 +4,7 @@ subtitle: Cornell University - CS 5785 (Open Online Version).
 layout: page
 show_sidebar: false
 hero_height: is-medium
+sponsors: aml_staff
 ---
 
 <div class="columns">
