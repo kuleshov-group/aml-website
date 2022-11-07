@@ -1,5 +1,8 @@
 {% if page.sponsors %}
 {% assign tiers=site.data.[page.sponsors] %}
+
+    {% include about.html %}
+
     <div class="columns is-multiline">
         {% for tier in tiers %}
         <div class="column is-12">
