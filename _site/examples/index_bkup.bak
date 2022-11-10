@@ -64,7 +64,7 @@
                 
                     
                     <div class="navbar-item has-dropdown is-hoverable ">
-                        <a href="/" class="navbar-link ">Past Offerings</a>
+                        <a href="" class="navbar-link ">Past Offerings</a>
                         <div class="navbar-dropdown">
                             
                             <a href="https://canvas.cornell.edu/courses/44798" class="navbar-item ">2022 (Kuleshov)</a>

@@ -7,7 +7,6 @@
 #      link: /showcase/showcase_2020/
 
 - name: Past Offerings
-  link: /#
   dropdown:
     - name: 2022 (Kuleshov)
       link: https://canvas.cornell.edu/courses/44798
