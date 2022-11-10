@@ -1,6 +1,8 @@
 {% if page.sponsors %}
 {% assign tiers=site.data.[page.sponsors] %}
 
+    <!--I have to include about here (not the best idea) because if doing it separately,
+    this page shows before the about page which defeats the purpose.-->
     {% include about.html %}
 
     <div class="columns is-multiline">
