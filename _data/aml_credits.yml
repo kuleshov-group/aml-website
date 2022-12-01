@@ -29,25 +29,35 @@
 #  description: |-
 #    This is the description for the Course Staff
   sponsors:
-    - name: Hongjun Wu
-      title: Producer
+    - name: Yair Schiff
+      title: Teaching Assistant
 #      profile: https://github.com/
 #      img: img/volodymyr_kuleshov.jpg
-      description: <strong><a href="https://hongjunwu.com/">Hongjun Wu</a></strong> works on applied machine learning in technical art and game development.
-    - name: Serge Belongie
+      description: <strong><a href="https://yair-schiff.github.io">Yair Schiff</a></strong>'s interests include Generative modeling, Optimal transport, and AI for discovery & social good.
+    - name: Noriyuki Kojima
       title: Teaching Assistant
         #      profile: https://github.com/
         #      img: img/volodymyr_kuleshov.jpg
-      description: <strong><a href="https://github.com/">Serge Belongie</a></strong> specializes in computer vision, machine learning, augmented reality, and human-in-the-loop computing.
-    - name: Serge Belongie
+      description: <strong><a href="https://kojimano.github.io">Noriyuki Kojima</a></strong> is interested in natural language processing, computer vision, and machine learning.
+    - name: Top Piriyakulkij
       title: Teaching Assistant
         #      profile: https://github.com/
         #      img: img/volodymyr_kuleshov.jpg
-      description: <strong><a href="https://github.com/">Serge Belongie</a></strong> specializes in computer vision, machine learning, augmented reality, and human-in-the-loop computing.
-    - name: Serge Belongie
+      description: <strong><a href="https://github.com/topwasu">Top Piriyakulkij</a></strong> is a PhD student at Cornell University.
+    - name: Guandao Yang
       title: Teaching Assistant
         #      profile: https://github.com/
         #      img: img/volodymyr_kuleshov.jpg
-      description: <strong><a href="https://github.com/">Serge Belongie</a></strong> specializes in computer vision, machine learning, augmented reality, and human-in-the-loop computing.
+      description: <strong><a href="https://www.guandaoyang.com">Guandao Yang</a></strong>'s research focuses on geometry processing with deep learning.
+    - name: Rui Qian
+      title: Teaching Assistant
+      #      profile: https://github.com/
+      #      img: img/volodymyr_kuleshov.jpg
+      description: <strong><a href="https://rui1996.github.io">Rui Qian</a></strong> is interested in label-efficient and multimodal video understanding.
+    - name: Jin Sun
+      title: Teaching Assistant
+      #      profile: https://github.com/
+      #      img: img/volodymyr_kuleshov.jpg
+      description: <strong><a href="https://www.cs.cornell.edu/~jinsun/">Jin Sun</a></strong> focus in computer vision has been object recognition and scene understanding in general.
 
 
