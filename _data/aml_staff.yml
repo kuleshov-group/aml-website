@@ -1,6 +1,6 @@
 - tier_name: Instructors
   size: medium
-#  description: |-
+  description: This course is based on materials created by faculty and instructors at <a href="http://www.cornell.edu">Cornell University</a> and <a href="http://tech.cornell.edu">Cornell Tech</a>.
 #    This is the description for the Instructors (Probably don't need it but implemented it anyway)
   sponsors:
     - name: Volodymyr Kuleshov
