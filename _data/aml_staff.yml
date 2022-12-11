@@ -4,25 +4,25 @@
 #    This is the description for the Instructors (Probably don't need it but implemented it anyway)
   sponsors:
     - name: Volodymyr Kuleshov
-      title: Assistant Professor
+      title: Assistant Professor,<br>Cornell Tech
 #      profile: https://www.cs.cornell.edu/~kuleshov/
       img: img/volodymyr_kuleshov.jpg
-      description: <strong><a href="https://www.cs.cornell.edu/~kuleshov/">Volodymyr Kuleshov</a></strong> focuses on machine learning and its applications in scientific discovery, health, and sustainability. He is also the co-founder of Afresh, a startup that uses AI to significantly driving down food waste.
+      description: <strong><a href="https://www.cs.cornell.edu/~kuleshov/">Volodymyr Kuleshov</a></strong> focuses on machine learning and its applications in scientific discovery, health, and sustainability. He is also the co-founder of Afresh, a startup that uses AI to significantly drive down food waste.
     - name: Nathan Kallus
-      title: Assistant Professor
+      title: Assistant Professor,<br>Cornell Tech
 #      profile: https://tech.cornell.edu/people/nathan-kallus/
       img: img/nathan_kallus.jpg
       description: <strong><a href="https://tech.cornell.edu/people/nathan-kallus/">Nathan Kallus</a></strong>' research interests include personalization; optimization, especially under uncertainty; causal inference; sequential decision making; credible and robust inference; and algorithmic fairness.
     - name: Serge Belongie
-      title: Professor
+      title: Professor,<br>University of Copenhagen
 #      profile: https://sergebelongie.github.io
       img: img/serge_belongie.jpg
       description: <strong><a href="https://sergebelongie.github.io">Serge Belongie</a></strong> specializes in computer vision, machine learning, augmented reality, and human-in-the-loop computing. He is now the head of the Pioneer Centre for Artificial Intelligence at the University of Copenhagen.
     - name: Hongjun Wu
-      title: Producer
+      title: Producer,<br>Cornell Tech
       #      profile: https://hongjunwu.com
       img: img/hongjun_wu.jpg
-      description: <strong><a href="https://hongjunwu.com">Hongjun Wu</a></strong> is interested in applying machine learning techniques to optimize 3D animation and video game. He is working on automated procedural mesh and shader generation with artificial intelligence.
+      description: <strong><a href="https://hongjunwu.com">Hongjun Wu</a></strong> is interested in applying machine learning techniques to optimize 3D animation and video games. He is working on automated procedural mesh and shader generation with artificial intelligence.
 #- tier_name: Contributors
 #  size: medium
 ##  description: |-
